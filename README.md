@@ -19,3 +19,9 @@ Normalize the initial table to 1NF, 2NF, and 3NF, create an ER diagram, and impl
 - one customer → many orders
 - one order → many order items
 - one SKU → many order items
+
+## ER Diagram
+![ER Diagram](images/er_diagram.png)
+
+## Workbench Schema
+![Workbench Schema](images/workbench_schema.png)
